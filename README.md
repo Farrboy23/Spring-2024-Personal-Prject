@@ -7,9 +7,13 @@ This project aims to predict credit risk using machine learning models, specific
 *Features*
 
 Data preprocessing and feature scaling.
+
 SMOTE for handling imbalanced data.
+
 Hyperparameter tuning using RandomizedSearchCV.
+
 Model evaluation with precision-recall, ROC curves, and calibration plots.
+
 Visualization of model's feature importance and predicted probabilities distribution.
 
 *Installation*
