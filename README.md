@@ -19,7 +19,8 @@ This project aims to predict credit risk using machine learning models, specific
 *Installation*
 
 To run this project, please install the following Python libraries. Use the package manager pip to install the required libraries:
-pip install pandas numpy scikit-learn xgboost seaborn imbalanced-learn matplotlib
+
+- pip install pandas numpy scikit-learn xgboost seaborn imbalanced-learn matplotlib
 
 *Usage*
 
